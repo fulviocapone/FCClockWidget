@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FCClockWidget</string>
+    <string name="hello">
+    Hello\n\n
+    Thanks for installing the FC Clock Widget.\n\n
+    You need to add the widget to your home screen to use it.
+    Long-press the home screen and select the widget from the
+    list of those installed on your device.
+    </string>
+    <string name="choice_intro">Choose an option:</string>
+    <string name="design0">Roman Old Black design</string>
+    <string name="design1">Roman Old Black design with gold hands</string>
+    <string name="design2">Roman Old Black design with red hands</string>
+    <string name="design3">Roman Old White Transparent design</string>
+    <string name="design4">Roman Old White Transparent design with black hands</string>
+    <string name="design5">Roman Old White Transparent design with gold hands</string>
+    <string name="design6">Roman Old White Transparent design with red hands</string>
+    <string name="design7">Roman Old White design with black hands</string>
+    <string name="design8">Roman Old White design with gold hands</string>
+    <string name="design9">Roman Old White design with red hands</string>
+    <string name="design10">Roman Old Black Transparent design</string>
+    <string name="design11">Roman Old Black Transparent design with white hands</string>
+    <string name="design12">Roman Old Black Transparent design with gold hands</string>
+    <string name="design13">Roman Old Black Transparent design with red hands</string>
+</resources>

@@ -1,0 +1,131 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#3f3f3f"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="@string/choice_intro"
+            android:textStyle="italic" />
+
+        <ImageButton
+            android:id="@+id/design_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_black_hands"
+            android:contentDescription="@string/design0"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_gold_hands"
+            android:contentDescription="@string/design1"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_red_hands"
+            android:contentDescription="@string/design2"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_transparent_white_hands"
+            android:contentDescription="@string/design3"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_transparent_black_hands"
+            android:contentDescription="@string/design4"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_transparent_gold_hands"
+            android:contentDescription="@string/design5"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_transparent_red_hands"
+            android:contentDescription="@string/design6"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_black_hands"
+            android:contentDescription="@string/design7"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_gold_hands"
+            android:contentDescription="@string/design8"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_white_red_hands"
+            android:contentDescription="@string/design9"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_transparent_black_hands"
+            android:contentDescription="@string/design10"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_transparent_white_hands"
+            android:contentDescription="@string/design11"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_transparent_gold_hands"
+            android:contentDescription="@string/design12"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+        <ImageButton
+            android:id="@+id/design_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_roman_old_black_transparent_red_hands"
+            android:contentDescription="@string/design13"
+            android:background="#3f3f3f"
+            android:padding="5dp" />
+    </LinearLayout>
+</ScrollView>
